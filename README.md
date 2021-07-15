@@ -1,5 +1,4 @@
-### Hi there 👋
-##(https://github.com/DevinP509/DevinP509/files/6825894/Resume.pdf)
+### Resume:(https://github.com/DevinP509/DevinP509/files/6825894/Resume.pdf)
 
 <!--
 **DevinP509/DevinP509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
